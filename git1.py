@@ -10,3 +10,6 @@ c = "jeszcze jeden fragment"
 
 
 d = "koniec"
+
+
+test = "kolejna informacja"
